@@ -1,2 +1,2 @@
-# MachineLearning
-For Machine Learning Projects.
+# DeepLearning
+For Deep Learning Projects.
